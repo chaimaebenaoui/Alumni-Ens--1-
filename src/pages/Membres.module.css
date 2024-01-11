@@ -1,0 +1,167 @@
+.membresChild {
+  position: absolute;
+  height: 11.09%;
+  width: 100%;
+  top: 88.91%;
+  right: 0.08%;
+  bottom: 0;
+  left: -0.08%;
+  background-color: var(--color-orangered);
+}
+.image7Icon {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.membresInner,
+.membresItem {
+  position: absolute;
+  top: 246.2px;
+  left: 111.2px;
+  width: 229.4px;
+  height: 220.9px;
+  overflow: hidden;
+  object-fit: contain;
+  cursor: pointer;
+}
+.membresInner {
+  top: 532.2px;
+  left: 110.5px;
+}
+.frameIcon,
+.membresChild1,
+.membresChild2,
+.membresChild3,
+.membresChild4,
+.membresChild5,
+.membresChild6 {
+  position: absolute;
+  top: 818.2px;
+  left: 109.9px;
+  width: 229.4px;
+  height: 220.9px;
+  overflow: hidden;
+  object-fit: contain;
+  cursor: pointer;
+}
+.membresChild1,
+.membresChild2,
+.membresChild3,
+.membresChild4,
+.membresChild5,
+.membresChild6 {
+  top: 1104.2px;
+  left: 109.3px;
+}
+.membresChild2,
+.membresChild3,
+.membresChild4,
+.membresChild5,
+.membresChild6 {
+  top: 243.9px;
+  left: 441.2px;
+}
+.membresChild3,
+.membresChild4,
+.membresChild5,
+.membresChild6 {
+  top: 529.9px;
+  left: 440.6px;
+}
+.membresChild4,
+.membresChild5,
+.membresChild6 {
+  top: 815.9px;
+  left: 439.9px;
+}
+.membresChild5,
+.membresChild6 {
+  top: 1101.9px;
+  left: 439.3px;
+}
+.membresChild6 {
+  top: 244.6px;
+  left: 771.2px;
+}
+.membresChild10,
+.membresChild11,
+.membresChild12,
+.membresChild13,
+.membresChild7,
+.membresChild8,
+.membresChild9 {
+  position: absolute;
+  top: 530.6px;
+  left: 770.6px;
+  width: 229.4px;
+  height: 220.9px;
+  overflow: hidden;
+  object-fit: contain;
+  cursor: pointer;
+}
+.membresChild10,
+.membresChild11,
+.membresChild12,
+.membresChild13,
+.membresChild8,
+.membresChild9 {
+  top: 816.6px;
+  left: 769.9px;
+}
+.membresChild10,
+.membresChild11,
+.membresChild12,
+.membresChild13,
+.membresChild9 {
+  top: 1102.6px;
+  left: 769.3px;
+}
+.membresChild10,
+.membresChild11,
+.membresChild12,
+.membresChild13 {
+  top: 243.3px;
+  left: 1101.2px;
+}
+.membresChild11,
+.membresChild12,
+.membresChild13 {
+  top: 529.3px;
+  left: 1100.6px;
+}
+.membresChild12,
+.membresChild13 {
+  top: 815.3px;
+  left: 1099.9px;
+}
+.membresChild13 {
+  top: 1101.3px;
+  left: 1099.3px;
+}
+.alumniCleInfo {
+  margin: 0;
+}
+.nameAbdulrhmanContainer {
+  position: absolute;
+  top: 119px;
+  left: 424px;
+  letter-spacing: -0.3px;
+  font-weight: 900;
+  display: inline-block;
+  width: 571px;
+  height: 93px;
+}
+.membres {
+  position: relative;
+  background-color: var(--white-branco);
+  width: 100%;
+  height: 1641px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-orangered);
+  font-family: var(--font-lato);
+}

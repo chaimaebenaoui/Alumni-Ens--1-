@@ -1,0 +1,165 @@
+.frameChild {
+  position: absolute;
+  top: -17px;
+  left: -87px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumpurple-200);
+  width: 476px;
+  height: 473px;
+}
+.hireMe {
+  position: absolute;
+  top: 460px;
+  left: 121px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+}
+.frameChild1,
+.frameInner,
+.frameItem,
+.groupIcon {
+  position: absolute;
+  top: 71px;
+  left: 22px;
+  width: 12px;
+  height: 12px;
+  object-fit: cover;
+}
+.frameChild1,
+.frameInner,
+.groupIcon {
+  top: 128px;
+}
+.frameChild1,
+.groupIcon {
+  top: 185px;
+}
+.frameChild1 {
+  top: 242px;
+  height: 57px;
+}
+.figmaDesigner {
+  align-self: stretch;
+  position: relative;
+}
+.figmaDesignerWrapper,
+.frontEndDeveloperWrapper,
+.graphicDesignerWrapper {
+  position: absolute;
+  top: 68px;
+  left: 37px;
+  height: 30px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.frontEndDeveloperWrapper,
+.graphicDesignerWrapper {
+  top: 125px;
+}
+.frontEndDeveloperWrapper {
+  top: 182px;
+}
+.administrativeManager {
+  position: relative;
+  display: inline-block;
+  width: 400px;
+}
+.administrativeManagerWrapper {
+  position: absolute;
+  top: 239px;
+  left: 37px;
+  height: 30px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.frameChild2,
+.frameChild3,
+.lineDiv {
+  position: absolute;
+  top: 82.8px;
+  left: 27.8px;
+  border-right: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 0.5px;
+  height: 45.5px;
+}
+.frameChild2,
+.frameChild3 {
+  top: 139.8px;
+}
+.frameChild3 {
+  top: 196.8px;
+}
+.frameChild4 {
+  position: absolute;
+  top: 299px;
+  left: 22px;
+  width: 12px;
+  height: 69px;
+  object-fit: cover;
+}
+.javaDeveloper {
+  position: relative;
+  display: inline-block;
+  width: 189px;
+}
+.javaDeveloperWrapper {
+  position: absolute;
+  top: 297px;
+  left: 37px;
+  height: 30px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.videoEditor {
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 162px;
+}
+.videoEditorWrapper {
+  position: absolute;
+  top: 351px;
+  left: 37px;
+  height: 30px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.rectangleParent,
+.skills {
+  position: absolute;
+  top: 0;
+  left: -19px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-orangered);
+}
+.rectangleParent {
+  top: 365px;
+  left: 867px;
+  width: 360px;
+  height: 465px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}

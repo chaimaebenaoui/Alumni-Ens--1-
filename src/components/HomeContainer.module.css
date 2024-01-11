@@ -1,0 +1,83 @@
+.buttonChild,
+.sampleLogo {
+  position: absolute;
+  top: 14px;
+  left: -527px;
+  width: 122.1px;
+  height: 32px;
+}
+.buttonChild {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-orangered);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+}
+.register {
+  position: absolute;
+  top: 27.5%;
+  left: 26.15%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.button {
+  position: absolute;
+  top: 10px;
+  left: 975px;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+  font-size: var(--font-size-mini);
+  color: var(--white-branco);
+  font-family: var(--font-montserrat);
+}
+.blog,
+.contact,
+.home {
+  position: absolute;
+  top: 17px;
+  font-weight: 500;
+  display: inline-block;
+  height: 43px;
+}
+.home {
+  left: 313px;
+  text-align: right;
+  width: 57px;
+}
+.blog,
+.contact {
+  left: 388px;
+  width: 106px;
+}
+.contact {
+  left: 503px;
+  text-align: right;
+  width: 71px;
+}
+.alumniLogoE14557455316861Icon {
+  position: absolute;
+  top: 9px;
+  left: 71px;
+  width: 167px;
+  height: 36px;
+  object-fit: cover;
+}
+.navigationC {
+  position: absolute;
+  top: 7px;
+  left: 2px;
+  background-color: var(--white-branco);
+  width: 1152px;
+  height: 60px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-heebo);
+}

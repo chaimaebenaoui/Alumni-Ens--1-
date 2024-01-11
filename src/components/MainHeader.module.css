@@ -1,0 +1,56 @@
+.sampleLogo {
+  position: absolute;
+  top: 14px;
+  left: -527px;
+  width: 122.1px;
+  height: 32px;
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-orangered);
+}
+.button,
+.buttonChild,
+.logOut {
+  position: absolute;
+}
+.logOut {
+  top: 27.5%;
+  left: 27.69%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.button {
+  top: 10px;
+  left: 1225px;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+}
+.alumniLogoE14557455316861Icon {
+  position: absolute;
+  top: 9px;
+  left: 71px;
+  width: 167px;
+  height: 36px;
+  object-fit: cover;
+}
+.navigationC {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  background-color: var(--white-branco);
+  width: 1438px;
+  height: 60px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--white-branco);
+  font-family: var(--font-montserrat);
+}

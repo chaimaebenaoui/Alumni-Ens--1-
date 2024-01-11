@@ -1,0 +1,294 @@
+.sampleLogo {
+  position: absolute;
+  top: 14px;
+  left: -527px;
+  width: 122.1px;
+  height: 32px;
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--white-branco);
+  border: 1px solid var(--color-orangered);
+  box-sizing: border-box;
+}
+.button,
+.buttonChild,
+.logIn {
+  position: absolute;
+}
+.logIn {
+  top: 27.5%;
+  left: 32.31%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.button {
+  top: 14px;
+  left: 1232px;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+}
+.alumniLogoE14557455316861Icon {
+  position: absolute;
+  top: 9px;
+  left: 71px;
+  width: 167px;
+  height: 36px;
+  object-fit: cover;
+}
+.navigationC {
+  position: absolute;
+  top: 6px;
+  left: 1px;
+  background-color: var(--white-branco);
+  width: 1438px;
+  height: 60px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-orangered);
+  font-family: var(--font-montserrat);
+}
+.buttonItem {
+  margin: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-orangered);
+}
+.register {
+  position: absolute;
+  height: 45%;
+  width: 47.69%;
+  top: 27.4%;
+  left: 26.14%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button1 {
+  position: absolute;
+  top: 693px;
+  left: 793px;
+  width: 459px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--white-branco);
+  font-family: var(--font-montserrat);
+}
+.footer,
+.footerChild {
+  position: absolute;
+  left: 0;
+}
+.footerChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-orangered);
+}
+.footer {
+  top: 852px;
+  width: 1440px;
+  height: 181px;
+}
+.containerDefault {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 358px;
+  left: 1034px;
+}
+.containerDefault1,
+.containerDefault2,
+.containerDefault3 {
+  border: 1px solid var(--gray-2-cinza-2);
+  outline: 0;
+  background-color: var(--white-branco);
+  position: absolute;
+  top: 447px;
+  left: 792px;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+  width: 459px;
+  height: 45px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs);
+}
+.containerDefault2,
+.containerDefault3 {
+  top: 613px;
+  left: 793px;
+}
+.containerDefault3 {
+  top: 530px;
+}
+.iconsSuccess {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.check {
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0;
+}
+.name {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.labelCheck {
+  width: 213px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.helperText {
+  position: relative;
+  font-size: var(--description-descrio-size);
+  line-height: 24px;
+  color: var(--gray-2-cinza-2);
+  display: none;
+  width: 328px;
+}
+.labelCheckHelperText {
+  position: absolute;
+  top: 333px;
+  left: 793px;
+  width: 217px;
+  flex-direction: column;
+}
+.labelCheck2,
+.labelCheckHelperText,
+.labelCheckHelperText1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.labelCheckHelperText1 {
+  position: absolute;
+  top: 333px;
+  left: 1105px;
+  width: 218px;
+  flex-direction: column;
+}
+.labelCheck2 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-9xs);
+}
+.labelCheckHelperText2,
+.labelCheckHelperText3,
+.labelCheckHelperText4 {
+  position: absolute;
+  top: 416px;
+  left: 793px;
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.labelCheckHelperText3,
+.labelCheckHelperText4 {
+  top: 499px;
+  left: 794px;
+}
+.labelCheckHelperText4 {
+  top: 582px;
+}
+.alumni1Icon {
+  position: absolute;
+  top: 261px;
+  left: 65px;
+  width: 521px;
+  height: 515px;
+  object-fit: cover;
+}
+.registration {
+  position: absolute;
+  top: 234px;
+  left: 945px;
+  font-size: var(--font-size-25xl);
+  line-height: 60px;
+  display: inline-block;
+  font-family: var(--font-heebo);
+  color: var(--dark-color);
+  width: 258px;
+  height: 54px;
+}
+.image9Icon {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.containerDefault4,
+.forgotPassword {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.forgotPassword {
+  cursor: pointer;
+  padding: 0;
+  top: 781px;
+  left: 994px;
+  font-size: var(--font-size-mini);
+  text-decoration: underline;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 900;
+  font-family: var(--description-descrio);
+  color: var(--color-orangered);
+  text-align: left;
+  width: 194px;
+  height: 40px;
+}
+.containerDefault4 {
+  top: 358px;
+  left: 792px;
+}
+.regiter {
+  position: relative;
+  background-color: var(--white-branco);
+  width: 100%;
+  height: 1034px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--label-rtulo-size);
+  color: var(--gray-3-cinza-3);
+  font-family: var(--description-descrio);
+}

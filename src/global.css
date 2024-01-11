@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Hurricane:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100;300;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Radley:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-heebo: Heebo;
+  --font-hurricane: Hurricane;
+  --description-descrio: Inter;
+  --font-lato: Lato;
+  --font-radley: Radley;
+  --font-happy-monkey: "Happy Monkey";
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-mini: 15px;
+  --label-rtulo-size: 16px;
+  --font-size-25xl: 44px;
+  --description-descrio-size: 14px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --white-branco: #fff;
+  --color-black: #000;
+  --color-orangered: #ff5d03;
+  --gray-2-cinza-2: #757575;
+  --dark-color: #21243d;
+  --color-gray-100: rgba(255, 255, 255, 0.82);
+  --color-mediumpurple-100: #7579d6;
+  --color-mediumpurple-200: rgba(117, 121, 214, 0.29);
+  --color-red-100: #ff1414;
+  --color-red-200: #e91818;
+  --gray-3-cinza-3: #3a3a3a;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-12xs: 1px;
+  --padding-11xs: 2px;
+  --padding-8xs: 5px;
+  --padding-5xs: 8px;
+  --padding-9xs: 4px;
+  --padding-6xs: 7px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-3xs: 10px;
+  --br-base: 16px;
+  --br-xs: 12px;
+  --br-9xs: 4px;
+}

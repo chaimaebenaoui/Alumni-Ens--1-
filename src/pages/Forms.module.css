@@ -1,0 +1,398 @@
+.sampleLogo {
+  position: absolute;
+  top: 14px;
+  left: -527px;
+  width: 122.1px;
+  height: 32px;
+}
+.community,
+.home {
+  position: absolute;
+  top: 17px;
+  font-weight: 500;
+  display: inline-block;
+  height: 43px;
+}
+.home {
+  left: 385px;
+  width: 57px;
+  cursor: pointer;
+}
+.community {
+  left: 623px;
+  color: var(--color-orangered);
+  width: 124px;
+}
+.alumniLogoE14557455316861Icon {
+  position: absolute;
+  top: 9px;
+  left: 71px;
+  width: 167px;
+  height: 36px;
+  object-fit: cover;
+}
+.myProfile {
+  position: absolute;
+  top: 17px;
+  left: 1254px;
+  font-weight: 500;
+  display: inline-block;
+  width: 117px;
+  height: 43px;
+  cursor: pointer;
+}
+.homeDuotoneIcon,
+.navigationC {
+  position: absolute;
+  top: 17px;
+  left: 349px;
+  width: 24px;
+  height: 24px;
+}
+.navigationC {
+  top: 0;
+  left: 0;
+  background-color: var(--white-branco);
+  width: 1439px;
+  height: 60px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-heebo);
+}
+.formsChild {
+  position: absolute;
+  height: 11.09%;
+  width: 100%;
+  top: 88.91%;
+  right: 0.08%;
+  bottom: 0;
+  left: -0.08%;
+  background-color: var(--color-orangered);
+}
+.image7Icon {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.footer,
+.formsItem {
+  position: absolute;
+  top: 1459px;
+  left: -1px;
+  width: 1441px;
+  height: 182px;
+}
+.formsItem {
+  border: 1px solid var(--color-orangered);
+  outline: 0;
+  display: block;
+  font-family: var(--font-montserrat);
+  font-size: var(--label-rtulo-size);
+  background-color: transparent;
+  top: 13px;
+  left: 960px;
+  border-radius: var(--br-base);
+  box-sizing: border-box;
+  width: 161px;
+  height: 43px;
+  overflow: hidden;
+  padding: var(--padding-12xs) 0 var(--padding-11xs);
+  font-weight: 700;
+  color: var(--color-black);
+}
+.formulaireDinscription {
+  position: absolute;
+  top: 101px;
+  left: 426px;
+  font-size: 48px;
+  font-family: var(--font-radley);
+  display: inline-block;
+  width: 573px;
+  height: 64px;
+}
+.formsInner {
+  position: absolute;
+  top: 232px;
+  left: 112px;
+  border-radius: 50%;
+  width: 162px;
+  height: 158px;
+  object-fit: cover;
+}
+.frameInput {
+  position: absolute;
+  top: 421px;
+  left: 71px;
+  border-radius: var(--br-base);
+  background-color: rgba(117, 121, 214, 0.36);
+  border: 1px solid var(--color-mediumpurple-100);
+  box-sizing: border-box;
+  width: 244px;
+  height: 41px;
+  overflow: hidden;
+}
+.span {
+  color: var(--color-red-200);
+}
+.nom {
+  position: absolute;
+  top: 244px;
+  left: 416px;
+  display: inline-block;
+  width: 169px;
+  height: 39px;
+}
+.anneDinscription,
+.profilsLinkedin,
+.spcialisation,
+.titreDuPoste {
+  position: absolute;
+  top: 1065px;
+  left: 412px;
+  display: inline-block;
+  width: 289px;
+  height: 39px;
+}
+.anneDinscription,
+.spcialisation,
+.titreDuPoste {
+  top: 979px;
+  left: 416px;
+  width: 313px;
+}
+.anneDinscription,
+.spcialisation {
+  top: 897px;
+  width: 305px;
+}
+.anneDinscription {
+  top: 816px;
+}
+.span3 {
+  color: var(--color-red-100);
+}
+.adresseEMail,
+.anneDeDiplmeContainer,
+.dateNaissance,
+.genre,
+.prnom,
+.ville {
+  position: absolute;
+  top: 734px;
+  left: 416px;
+  display: inline-block;
+  width: 367px;
+  height: 39px;
+}
+.adresseEMail,
+.dateNaissance,
+.genre,
+.prnom,
+.ville {
+  top: 652px;
+  width: 287px;
+}
+.dateNaissance,
+.genre,
+.prnom,
+.ville {
+  top: 571px;
+  width: 169px;
+}
+.dateNaissance,
+.genre,
+.prnom {
+  top: 489px;
+  width: 268px;
+}
+.genre,
+.prnom {
+  top: 408px;
+  width: 169px;
+}
+.prnom {
+  top: 326px;
+}
+.formsChild1,
+.formsChild2,
+.formsChild3,
+.formsChild4,
+.formsChild5,
+.formsChild6 {
+  border: 1px solid var(--color-mediumpurple-100);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 232px;
+  left: 897px;
+  border-radius: var(--br-xs);
+  box-sizing: border-box;
+  width: 255px;
+  height: 39px;
+  overflow: hidden;
+}
+.formsChild2,
+.formsChild3,
+.formsChild4,
+.formsChild5,
+.formsChild6 {
+  top: 314px;
+}
+.formsChild3,
+.formsChild4,
+.formsChild5,
+.formsChild6 {
+  top: 734px;
+}
+.formsChild4,
+.formsChild5,
+.formsChild6 {
+  top: 1065px;
+  left: 893px;
+}
+.formsChild5,
+.formsChild6 {
+  top: 979px;
+  left: 897px;
+}
+.formsChild6 {
+  top: 897px;
+}
+.formsChild7 {
+  top: 816px;
+}
+.formsChild10,
+.formsChild7,
+.formsChild8,
+.formsChild9 {
+  border: 1px solid var(--color-mediumpurple-100);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  left: 897px;
+  border-radius: var(--br-xs);
+  box-sizing: border-box;
+  width: 255px;
+  height: 39px;
+  overflow: hidden;
+}
+.formsChild8 {
+  font-family: var(--description-descrio);
+  font-size: var(--font-size-xl);
+  top: 647px;
+  padding: var(--padding-8xs) 111px;
+  color: var(--color-black);
+}
+.formsChild10,
+.formsChild9 {
+  top: 559px;
+}
+.formsChild10 {
+  font-family: var(--description-descrio);
+  font-size: var(--font-size-5xl);
+  top: 477px;
+  padding: var(--padding-8xs) 52px;
+  color: var(--color-black);
+}
+.femelle,
+.male {
+  position: absolute;
+  top: 405px;
+  left: 943px;
+  display: inline-block;
+  width: 132px;
+  height: 35px;
+}
+.male {
+  top: 408px;
+  left: 1165px;
+  height: 34px;
+}
+.annuler,
+.container,
+.wrapper {
+  position: absolute;
+  top: 408px;
+  left: 1096px;
+}
+.annuler,
+.container {
+  left: 879px;
+}
+.annuler {
+  top: 0;
+  left: 33px;
+  display: inline-block;
+  width: 147px;
+  height: 30px;
+}
+.annulerWrapper {
+  position: absolute;
+  top: 1321px;
+  left: 541px;
+  border-radius: var(--br-base);
+  background-color: var(--color-orangered);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 186px;
+  height: 46px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--white-branco);
+}
+.sinscrire {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  display: inline-block;
+  width: 147px;
+  height: 30px;
+}
+.sinscrireWrapper {
+  position: absolute;
+  top: 1321px;
+  left: 828px;
+  border-radius: var(--br-base);
+  background-color: var(--color-orangered);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 186px;
+  height: 46px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--white-branco);
+}
+.biographie {
+  position: absolute;
+  top: 1095px;
+  left: 414px;
+  display: inline-block;
+  width: 289px;
+  height: 39px;
+}
+.formsChild11 {
+  border: 1px solid var(--color-mediumpurple-100);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1139px;
+  left: 893px;
+  border-radius: var(--br-xs);
+  box-sizing: border-box;
+  width: 255px;
+  height: 116px;
+  overflow: hidden;
+}
+.forms {
+  position: relative;
+  background-color: var(--white-branco);
+  width: 100%;
+  height: 1641px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--description-descrio);
+}
