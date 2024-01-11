@@ -80,6 +80,7 @@ function App() {
 
   return (
     <Routes>
+      <Route path="/" element={<Acceuil />} />
       <Route path="/Acceuil" element={<Acceuil />} />
       <Route path="/home" element={<Home />} />
       <Route path="/card" element={<Card />} />
